@@ -6,9 +6,9 @@ In the initial commit, there are 4 different applications
 2. usage of trident
 3. reading tweets
 	
-	-currently revoked api access (use your own access!)
-	-keys are supplied manually through application invocation
-	-remember to check & start zookeeper, nimbus & supervisor (in case they have been d/c previously)
+	- currently revoked api access (use your own access!)
+	- keys are supplied manually through application invocation
+	- remember to check & start zookeeper, nimbus & supervisor (in case they have been d/c previously)
 	
 4. reading yahoo finance
 
