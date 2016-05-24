@@ -11,6 +11,7 @@ In the initial commit, there are 4 different applications
 	- remember to check & start zookeeper, nimbus & supervisor (in case they have been d/c previously)
 	
 4. reading yahoo finance
+5. dummy committor count
 
 All the code listed here are compilable in my machine. If you have any issues in compiling/running them, create an issue in the github repository and let me know.
 
